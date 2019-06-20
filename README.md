@@ -6,7 +6,7 @@ I'm looking forward to meeting you! Or I guess if we already met then I'm lookin
 
 1. I'm here to make sure you're both happy and successful. I'm here to help you improve your technical skills, grow your career, and enjoy your work while you're at Saleswhale.
 2. I'm here to enable our team to produce amazing work. Specifically that means making sure all of us have everything we need to be productive as well as make sure we work together smoothly as a team.
-3. I'm here to make sure our team is set up for success. Specifically that means making sure we as a tean aren't overburdened and that we aren't taking on more than we can handle.
+3. I'm here to make sure our team is set up for success. Specifically that means making sure we as a team aren't overburdened and that we aren't taking on more than we can handle.
 4. I'm here to make sure we're aligned with the other teams and that our team is getting what we need from them, and vice versa. Specifically that means making sure that we're working smoothly with the other teams here in Saleswhale.
 5. I'm also here to code! We will see each other a lot in code reviews.
 

@@ -34,9 +34,9 @@ I will always find time for you if you need to talk to me.
 
 ### One on Ones
 
-How you want to conduct our 1:1s is entirely up to you. Over coffee (or beers), in a private meeting, walking outside, walking inside, let me know whatever works for you and we'll go with that. Initially we'll do 1 hour every two weeks and then adjust from there.
+How you want to conduct our 1:1s is entirely up to you. Over coffee (or beers), in a private meeting, walking outside, walking inside, let me know whatever works for you and we'll go with that. Initially we'll do 1 hour every two weeks and then adjust from there. If the circumstances won't allow us to meet then we'll figure out a way virtually to make it work.
 
-1:1s are for you to talk about what matters to you. I've created a private Slack channel for the two of us to capture topics to discuss as well as keep a log of how we're doing. If you have anything you'd specifically like to discuss, feel free to dump it there. I'll do likewise.
+1:1s are for you to talk about what matters to you.
 
 ### My Schedule
 
